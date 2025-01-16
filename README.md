@@ -14,3 +14,6 @@ fvm use 3.27.0
 ```
 fvm flutter run
 ```
+
+flutter pub add flutter_bloc
+fvm flutter pub add equatable
