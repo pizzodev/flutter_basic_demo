@@ -1,20 +1,16 @@
 # flutter_basic_demo
 
+### Create flutter app with fvm
+```
 fvm flutter create flutter_basic_demo
+```
 
+### Fvm set local flutter version
+```
 fvm use 3.27.0
+```
 
+### Fvm run flutter
+```
 fvm flutter run
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
